@@ -1,3 +1,1 @@
-Este el primer texto de inicio para este nuevo proyecto, el cual
-contendra ciertos factores que rendericen la funcionalidad del 
-programa a prácticar.
+En el texto anterio se tenía descripto de que había renderizar el programa cuyo texto tenía tres líneas o tres slocs. Este es el nuevo texto que minimiza esos espacios para un mejor mantenimiento.
