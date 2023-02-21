@@ -1,0 +1,3 @@
+Este el primer texto de inicio para este nuevo proyecto, el cual
+contendra ciertos factores que rendericen la funcionalidad del 
+programa a prácticar.
